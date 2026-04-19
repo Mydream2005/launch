@@ -1,15 +1,5 @@
 [
     {
-        "name": "\u5bf9\u9a6c\u5c9b\u4e4b\u9b42",
-        "path": "E:/Game/GhostOfTsushima/GhostOfTsushima.exe",
-        "icon": ""
-    },
-    {
-        "name": "GTA5",
-        "path": "E:/Game/GTA5/GTA5.exe",
-        "icon": "D:/Downlode_bag/Previous/grand-theft-auto-v-3840x2160-10738.jpg"
-    },
-    {
         "name": "\u8352\u91ce\u5927\u9556\u5ba22\u6551\u8d4e",
         "path": "E:/Game/Red Dead Redemption 2/Launcher.exe",
         "icon": "D:/Downlode_bag/Previous/red-dead-redemption-3840x2160-10815.jpg"
@@ -62,11 +52,6 @@
     {
         "name": "\u6e38\u620f\u76d2\u5b50",
         "path": "E:/Game/nnyxc102/steamall.exe",
-        "icon": ""
-    },
-    {
-        "name": "\u661f\u7a79\u94c1\u9053",
-        "path": "E:/Game/Star Rail/StarRail.exe",
         "icon": ""
     }
 ]
